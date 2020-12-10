@@ -1,0 +1,2 @@
+TABLE_LIMIT=5 - добавить локальную перемнную окружения TABLE_LIMIT
+export TABLE_LIMIT - сделать TABLE_LIMIT глобальной переменной 

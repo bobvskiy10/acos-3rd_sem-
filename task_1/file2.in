@@ -1,0 +1,2 @@
+0 ./call_integral
+2 ./integral 2 4 0.001

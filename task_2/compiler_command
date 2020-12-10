@@ -1,0 +1,3 @@
+install zlib-devel for correct work
+after installing use flag -lz
+gcc -o backup.exe -lz
